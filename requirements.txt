@@ -1,2 +1,4 @@
 onnxruntime-gpu
 insightface
+build
+dlib
